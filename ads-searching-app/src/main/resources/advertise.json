@@ -1,0 +1,1402 @@
+[
+  {
+    "adId": 1231,
+    "campaignId": 66,
+    "keywords": "nike kobe basketball shoe",
+    "bid": 1200,
+    "pclick": 1.2
+  },
+  {
+    "adId": 1232,
+    "campaignId": 66,
+    "keywords": "nike running shoe",
+    "bid": 1300,
+    "pclick": 0.6
+  },
+  {
+    "adId": 1233,
+    "campaignId": 66,
+    "keywords": "nike soccer shoe",
+    "bid": 1400,
+    "pclick": 1.2
+  },
+  {
+    "adId": 1234,
+    "campaignId": 67,
+    "keywords": "adidas shoe",
+    "bid": 1000,
+    "pclick": 0.88
+  },
+  {
+    "adId": 1235,
+    "campaignId": 67,
+    "keywords": "adidas basketball",
+    "bid": 900,
+    "pclick": 0.7
+  },
+  {
+    "adId": 1236,
+    "campaignId": 67,
+    "keywords": "adidas sports",
+    "bid": 400,
+    "pclick": 0.71
+  },
+  {
+    "adId": 1237,
+    "campaignId": 68,
+    "keywords": "sports shoe clothes",
+    "bid": 800,
+    "pclick": 0.4
+  },
+  {
+    "adId": 1238,
+    "campaignId": 68,
+    "keywords": "nike adidas sports",
+    "bid": 500,
+    "pclick": 0.51
+  },
+  {
+    "adId": 1239,
+    "campaignId": 69,
+    "keywords": "clothes shoe",
+    "bid": 550,
+    "pclick": 1.1
+  },
+  {
+    "adId": 1240,
+    "campaignId": 70,
+    "keywords": "food burger",
+    "bid": 250,
+    "pclick": 0.7
+  },
+  {
+    "adId": 1241,
+    "campaignId": 75,
+    "keywords": "restaurant american food",
+    "bid": 500,
+    "pclick": 0.6
+  },
+  {
+    "adId": 1242,
+    "campaignId": 71,
+    "keywords": "restaurant chinese food \"",
+    "bid": 500,
+    "pclick": 0.65
+  },
+  {
+    "adId": 1244,
+    "campaignId": 72,
+    "keywords": "kobe sport t-shirt",
+    "bid": 1200,
+    "pclick": 0.89
+  },
+  {
+    "adId": 1245,
+    "campaignId": 74,
+    "keywords": "eat san francisco",
+    "bid": 600,
+    "pclick": 1.3
+  },
+  {
+    "adId": 1246,
+    "campaignId": 73,
+    "keywords": "starbucks coffee cup",
+    "bid": 700,
+    "pclick": 0.92
+  },
+  {
+    "adId": 1247,
+    "campaignId": 72,
+    "keywords": "gym san francisco",
+    "bid": 600,
+    "pclick": 0.76
+  },
+  {
+    "adId": 1248,
+    "campaignId": 70,
+    "keywords": "american food",
+    "bid": 300,
+    "pclick": 0.85
+  },
+  {
+    "adId": 1249,
+    "campaignId": 74,
+    "keywords": "chinese food",
+    "bid": 200,
+    "pclick": 0.4
+  },
+  {
+    "adId" : 1000,
+    "campaignId" : 8006,
+    "keywords" : "nikon d5500 black digital slr camera, 55-300 lens, 32gb, and battery bundle - includes camera, lens, memory card... ",
+    "bid" : 1415.17,
+    "pclick" : 0.52
+  },
+  {
+    "adId" : 1001,
+    "campaignId" : 8006,
+    "keywords" : "nikon d500 20.9 mp cmos dx format digital slr camera with 4k video ",
+    "bid" : 386.22,
+    "pclick" : 0.51
+  },
+  {
+    "adId" : 1002,
+    "campaignId" : 8006,
+    "keywords" : "nikon d3300 1532 18-55mm f/3.5-5.6g vr ii auto focus-s dx nikkor zoom lens 24.2 mp digital slr – black ",
+    "bid" : 1211.36,
+    "pclick" : 0.12
+  },
+  {
+    "adId" : 1003,
+    "campaignId" : 8006,
+    "keywords" : "nikon d3400 dslr camera with af-p dx nikkor 18-55mm f/3.5-5.6g vr and af-p dx nikkor 70-300mm f/4.5-6.3g ed ",
+    "bid" : 1782.03,
+    "pclick" : 0.34
+  },
+  {
+    "adId" : 1004,
+    "campaignId" : 8005,
+    "keywords" : "nikon d5500 dx digital slr camera dual lens bundle includes camera, 18-140mm + 55-300mm lenses, 32gb sdhc memory... ",
+    "bid" : 1914.74,
+    "pclick" : 0.39
+  },
+  {
+    "adId" : 1005,
+    "campaignId" : 8005,
+    "keywords" : "nikon d500 20.9 mp cmos dx format digital slr camera with 4k video ",
+    "bid" : 1482.43,
+    "pclick" : 1.72
+  },
+  {
+    "adId" : 1006,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3300 1532 18-55mm f/3.5-5.6g vr ii auto focus-s dx nikkor zoom lens 24.2 mp digital slr – black ",
+    "bid" : 1131.25,
+    "pclick" : 0.61
+  },
+  {
+    "adId" : 1007,
+    "campaignId" : 8005,
+    "keywords" : "nikon d60 dslr camera with 18-55mm f/3.5-5.6g auto focus-s nikkor zoom lens ",
+    "bid" : 1394.57,
+    "pclick" : 1.37
+  },
+  {
+    "adId" : 1008,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3400 24.2 mp dslr camera + af-p dx 18-55mm & 70-300mm nikkor zoom lens kit + 64gb memory bundle + photo... ",
+    "bid" : 1402.52,
+    "pclick" : 1.44
+  },
+  {
+    "adId" : 1009,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3200 24.2 mp cmos dslr camera (black) + 18-55mm ed ii af-s dx zoom lens + 52mm 2x & wide angle lens + gadget... ",
+    "bid" : 30.10,
+    "pclick" : 1.34
+  },
+  {
+    "adId" : 1010,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3200 24.2 mp cmos dslr camera (black) + 18-55mm ed ii af-s dx zoom lens + 52mm 2x & wide angle lens + gadget... ",
+    "bid" : 1448.08,
+    "pclick" : 0.42
+  },
+  {
+    "adId" : 1011,
+    "campaignId" : 8005,
+    "keywords" : "nikon fm-10 slr camera with 35-70mm f/3.5-4.8 zoom lens ",
+    "bid" : 880.29,
+    "pclick" : 0.59
+  },
+  {
+    "adId" : 1012,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3100 dslr camera with 18-55mm f/3.5-5.6 auto focus-s nikkor zoom lens (discontinued by manufacturer) ",
+    "bid" : 446.97,
+    "pclick" : 0.61
+  },
+  {
+    "adId" : 1013,
+    "campaignId" : 8005,
+    "keywords" : "nikon d7100 24.1 mp dx-format cmos digital slr with 18-140mm f/3.5-5.6g ed vr auto focus-s dx nikkor zoom lens ",
+    "bid" : 1748.86,
+    "pclick" : 0.60
+  },
+  {
+    "adId" : 1014,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3300 digital slr camera & 18-55mm g vr dx ii (red) with 55-200mm vr ii lens + 32gb + case + tripod + flash... ",
+    "bid" : 1777.13,
+    "pclick" : 1.08
+  },
+  {
+    "adId" : 1015,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3300 24.2 mp cmos digital slr with af-s dx nikkor 18-55mm f/3.5-5.6g vr ii zoom lens, certified refurbished... ",
+    "bid" : 218.01,
+    "pclick" : 1.67
+  },
+  {
+    "adId" : 1016,
+    "campaignId" : 8005,
+    "keywords" : "nikon d5000 12.3 mp dx digital slr camera with 18-55mm f/3.5-5.6g vr lens and 2.7-inch vari-angle lcd ",
+    "bid" : 1834.56,
+    "pclick" : 0.63
+  },
+  {
+    "adId" : 1017,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3300 dx-format dslr kit w/ 18-55mm dx vr ii & 55-200mm dx vr ii zoom lenses and case (black) ",
+    "bid" : 1071.54,
+    "pclick" : 1.76
+  },
+  {
+    "adId" : 1018,
+    "campaignId" : 8005,
+    "keywords" : "nikon d3300 1533 24.2 mp cmos digital slr with auto focus-s dx nikkor 18-55mm f/3.5-5.6g vr ii zoom lens - red ",
+    "bid" : 1055.72,
+    "pclick" : 1.97
+  },
+  {
+    "adId" : 1019,
+    "campaignId" : 8007,
+    "keywords" : "astromania 1x/2.5x magnification right angle viewfinder with 6 mounting adapters for dslr camera such as canon... ",
+    "bid" : 18.63,
+    "pclick" : 1.18
+  },
+  {
+    "adId" : 1020,
+    "campaignId" : 8007,
+    "keywords" : "nikon d5300 24.2 mp dslr camera + af-p dx 18-55mm & 70-300mm nikkor zoom lens kit + 64gb memory bundle + photo... ",
+    "bid" : 1390.27,
+    "pclick" : 0.61
+  },
+  {
+    "adId" : 1021,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix b500 digital camera (black) ",
+    "bid" : 130.31,
+    "pclick" : 0.64
+  },
+  {
+    "adId" : 1022,
+    "campaignId" : 8007,
+    "keywords" : "nikon d3400 dslr camera with af-p dx nikkor 18-55mm f/3.5-5.6g vr and af-p dx nikkor 70-300mm f/4.5-6.3g ed ",
+    "bid" : 6.55,
+    "pclick" : 0.89
+  },
+  {
+    "adId" : 1023,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix l340 20.2 mp digital camera with 28x optical zoom and 3.0-inch lcd (black) ",
+    "bid" : 582.23,
+    "pclick" : 1.75
+  },
+  {
+    "adId" : 1024,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix b500 digital camera (red) ",
+    "bid" : 1499.25,
+    "pclick" : 0.58
+  },
+  {
+    "adId" : 1025,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix b500 16mp 40x optical zoom digital camera w/ built-in wi-fi nfc & bluetooth (red) + 64gb sdxc accessory... ",
+    "bid" : 675.47,
+    "pclick" : 0.54
+  },
+  {
+    "adId" : 1026,
+    "campaignId" : 8007,
+    "keywords" : "nikon d3300 1532 18-55mm f/3.5-5.6g vr ii auto focus-s dx nikkor zoom lens 24.2 mp digital slr – black ",
+    "bid" : 1822.80,
+    "pclick" : 0.86
+  },
+  {
+    "adId" : 1027,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix l840 digital camera (purple) + pixi-basic accessory kit ",
+    "bid" : 1354.29,
+    "pclick" : 0.20
+  },
+  {
+    "adId" : 1028,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix l840 digital camera (purple) + pixi-basic accessory kit ",
+    "bid" : 1717.98,
+    "pclick" : 1.68
+  },
+  {
+    "adId" : 1029,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix s33 waterproof digital camera (white) ",
+    "bid" : 1165.89,
+    "pclick" : 1.24
+  },
+  {
+    "adId" : 1030,
+    "campaignId" : 8007,
+    "keywords" : "nikon coolpix s7000 wi-fi digital camera (certified refurbished) ",
+    "bid" : 898.41,
+    "pclick" : 1.92
+  },
+  {
+    "adId" : 1031,
+    "campaignId" : 8007,
+    "keywords" : "canon eos rebel t6 digital slr camera with 18-55mm ef-s f/3.5-5.6 is ii lens + 58mm wide angle lens + 2x telephoto... ",
+    "bid" : 441.08,
+    "pclick" : 1.21
+  },
+  {
+    "adId" : 1032,
+    "campaignId" : 8010,
+    "keywords" : "nikon d3300 dslr hd black camera bundle - includes camera, 16gb memory card, carrying case, 52mm uv, polarizer... ",
+    "bid" : 596.85,
+    "pclick" : 1.50
+  },
+  {
+    "adId" : 1033,
+    "campaignId" : 8010,
+    "keywords" : "nikon d5500 dslr camera with af-p 18-55mm vr lens (black) + nikon 55-300mm f/4.5-5.6g ed vr lens + en-el14 replacement... ",
+    "bid" : 298.75,
+    "pclick" : 1.73
+  },
+  {
+    "adId" : 1034,
+    "campaignId" : 8010,
+    "keywords" : "nikon d3300 1532 18-55mm f/3.5-5.6g vr ii auto focus-s dx nikkor zoom lens 24.2 mp digital slr – black ",
+    "bid" : 1531.16,
+    "pclick" : 1.16
+  },
+  {
+    "adId" : 1035,
+    "campaignId" : 8010,
+    "keywords" : "nikon d3400 24.2 mp dslr camera + af-p dx 18-55mm & 70-300mm nikkor zoom lens kit + 64gb memory bundle + photo... ",
+    "bid" : 1227.72,
+    "pclick" : 0.84
+  },
+  {
+    "adId" : 1036,
+    "campaignId" : 8010,
+    "keywords" : "nikon d7000 dslr (body only) ",
+    "bid" : 1066.33,
+    "pclick" : 1.24
+  },
+  {
+    "adId" : 1037,
+    "campaignId" : 8010,
+    "keywords" : "nikon d60 dslr camera with 18-55mm f/3.5-5.6g auto focus-s nikkor zoom lens ",
+    "bid" : 1712.68,
+    "pclick" : 1.43
+  },
+  {
+    "adId" : 1038,
+    "campaignId" : 8010,
+    "keywords" : "nikon d5300 24.2 mp cmos digital slr camera (black) with nikon 18-55mm f/3.5-5.6g vr ii af-s dx nikkor zoom lens... ",
+    "bid" : 755.65,
+    "pclick" : 0.38
+  },
+  {
+    "adId" : 1039,
+    "campaignId" : 8010,
+    "keywords" : "nikon d7100 digital slr camera body with 18-140mm & 55-300mm vr lens + 64gb card + case + led flash + battery... ",
+    "bid" : 223.11,
+    "pclick" : 1.88
+  },
+  {
+    "adId" : 1040,
+    "campaignId" : 8004,
+    "keywords" : "astromania 1x/2.5x magnification right angle viewfinder with 6 mounting adapters for dslr camera such as canon... ",
+    "bid" : 855.13,
+    "pclick" : 1.57
+  },
+  {
+    "adId" : 1041,
+    "campaignId" : 8004,
+    "keywords" : "gigalumi w228 led video light 6000k dimmable ultra bright panel digital camera / camcorder light, led light for... ",
+    "bid" : 1164.42,
+    "pclick" : 1.45
+  },
+  {
+    "adId" : 1042,
+    "campaignId" : 8004,
+    "keywords" : "nikon d3400 dslr camera with af-p dx nikkor 18-55mm f/3.5-5.6g vr and af-p dx nikkor 70-300mm f/4.5-6.3g ed ",
+    "bid" : 1869.74,
+    "pclick" : 0.31
+  },
+  {
+    "adId" : 1043,
+    "campaignId" : 8004,
+    "keywords" : "nikon d3400 24.2 mp dslr camera + af-p dx 18-55mm & 70-300mm nikkor zoom lens kit + 64gb memory bundle + photo... ",
+    "bid" : 805.61,
+    "pclick" : 1.73
+  },
+  {
+    "adId" : 1044,
+    "campaignId" : 8004,
+    "keywords" : "nikon d60 dslr camera with 18-55mm f/3.5-5.6g auto focus-s nikkor zoom lens ",
+    "bid" : 1216.35,
+    "pclick" : 1.23
+  },
+  {
+    "adId" : 1045,
+    "campaignId" : 8004,
+    "keywords" : "nikon d5300 24.2 mp cmos digital slr camera (black) with nikon 18-55mm f/3.5-5.6g vr ii af-s dx nikkor zoom lens... ",
+    "bid" : 385.59,
+    "pclick" : 0.60
+  },
+  {
+    "adId" : 1046,
+    "campaignId" : 8004,
+    "keywords" : "nikon d3400 dslr camera with 18-55 and 70-300mm nikkor lenses + promotional holiday kit ",
+    "bid" : 1651.20,
+    "pclick" : 0.66
+  },
+  {
+    "adId" : 1047,
+    "campaignId" : 8003,
+    "keywords" : "canon eos 5d mark iii 22.3 mp full frame cmos digital slr camera body bundle includes 50mm lens, 75-300mm lens... ",
+    "bid" : 562.14,
+    "pclick" : 0.54
+  },
+  {
+    "adId" : 1048,
+    "campaignId" : 8003,
+    "keywords" : "canon eos 80d 24.2 mp cmos digital slr camera (body) deluxe bundle includes camera, case, tripod, 16gb + 8gb memory... ",
+    "bid" : 1073.88,
+    "pclick" : 0.39
+  },
+  {
+    "adId" : 1049,
+    "campaignId" : 8003,
+    "keywords" : "canon eos rebel t6 digital slr camera with 18-55mm ef-s f/3.5-5.6 is ii lens + 58mm wide angle lens + 2x telephoto... ",
+    "bid" : 1469.45,
+    "pclick" : 1.19
+  },
+  {
+    "adId" : 1050,
+    "campaignId" : 8008,
+    "keywords" : "canon eos 5d mark iii 22.3 mp full frame cmos digital slr camera body bundle includes 50mm lens, 75-300mm lens... ",
+    "bid" : 1250.36,
+    "pclick" : 1.61
+  },
+  {
+    "adId" : 1051,
+    "campaignId" : 8008,
+    "keywords" : "canon ef 50mm f1.4 usm standard & medium telephoto lens for canon slr cameras w/ 58mm multicoated uv protective... ",
+    "bid" : 1371.24,
+    "pclick" : 0.72
+  },
+  {
+    "adId" : 1052,
+    "campaignId" : 8008,
+    "keywords" : "canon eos rebel t6 digital slr camera with 18-55mm ef-s f/3.5-5.6 is ii lens + 58mm wide angle lens + 2x telephoto... ",
+    "bid" : 1635.71,
+    "pclick" : 1.13
+  },
+  {
+    "adId" : 1053,
+    "campaignId" : 8008,
+    "keywords" : "canon eos rebel t5 digital slr camera kit with ef-s 18-55mm is ii lens ",
+    "bid" : 401.76,
+    "pclick" : 1.26
+  },
+  {
+    "adId" : 1054,
+    "campaignId" : 8009,
+    "keywords" : "astromania 1x/2.5x magnification right angle viewfinder with 6 mounting adapters for dslr camera such as canon... ",
+    "bid" : 1005.72,
+    "pclick" : 1.15
+  },
+  {
+    "adId" : 1055,
+    "campaignId" : 8009,
+    "keywords" : "canon eos rebel t6 digital slr camera with 18-55mm ef-s f/3.5-5.6 is ii lens + 58mm wide angle lens + 2x telephoto... ",
+    "bid" : 1012.71,
+    "pclick" : 0.74
+  },
+  {
+    "adId" : 1056,
+    "campaignId" : 8009,
+    "keywords" : "canon powershot sx410 is (black) ",
+    "bid" : 1556.84,
+    "pclick" : 1.60
+  },
+  {
+    "adId" : 1057,
+    "campaignId" : 8009,
+    "keywords" : "canon sx530 hs 9779b001 powershot ",
+    "bid" : 1390.55,
+    "pclick" : 0.97
+  },
+  {
+    "adId" : 1058,
+    "campaignId" : 8009,
+    "keywords" : "canon eos rebel t6 dslr camera with ef-s 18-55mm f/3.5-5.6 is ii lens, ef 75-300mm f/4-5.6 iii lens, bundle ",
+    "bid" : 498.19,
+    "pclick" : 1.98
+  },
+  {
+    "adId" : 1059,
+    "campaignId" : 8009,
+    "keywords" : "canon powershot sx530 hs 16.0 mp cmos digital camera with 50x optical image stabilized zoom (24-1200mm), built-in... ",
+    "bid" : 1815.89,
+    "pclick" : 0.74
+  },
+  {
+    "adId" : 1060,
+    "campaignId" : 8009,
+    "keywords" : "canon powershot sx530 hs 16.0 mp cmos digital camera with 50x optical image stabilized zoom (24-1200mm), built-in... ",
+    "bid" : 1334.67,
+    "pclick" : 1.26
+  },
+  {
+    "adId" : 1061,
+    "campaignId" : 8009,
+    "keywords" : "canon eos rebel t5 digital slr camera kit with ef-s 18-55mm is ii lens ",
+    "bid" : 659.58,
+    "pclick" : 1.52
+  },
+  {
+    "adId" : 1062,
+    "campaignId" : 8009,
+    "keywords" : "canon eos rebel t6 dslr camera bundle with canon ef-s 18-55mm f/3.5-5.6 is ii lens + 2pc sandisk 32gb memory cards... ",
+    "bid" : 1529.43,
+    "pclick" : 1.30
+  },
+  {
+    "adId" : 1063,
+    "campaignId" : 8009,
+    "keywords" : "canon digital rebel xt dslr camera with ef-s 18-55mm f3.5-5.6 lens (black) (old model) ",
+    "bid" : 608.85,
+    "pclick" : 1.87
+  },
+  {
+    "adId" : 1064,
+    "campaignId" : 8009,
+    "keywords" : "canon powershot elph 160 (silver) ",
+    "bid" : 1919.46,
+    "pclick" : 1.67
+  },
+  {
+    "adId" : 1065,
+    "campaignId" : 8009,
+    "keywords" : "canon eos rebel 2000 silver date 35mm film slr camera deluxe kit with 28-90mm lens (discontinued by manufacturer) ",
+    "bid" : 154.96,
+    "pclick" : 1.12
+  },
+  {
+    "adId" : 1066,
+    "campaignId" : 8002,
+    "keywords" : "canon eos rebel t6 dslr camera with ef-s 18-55mm f/3.5-5.6 is ii lens, ef 75-300mm f/4-5.6 iii lens, 64gb, along... ",
+    "bid" : 1852.73,
+    "pclick" : 0.62
+  },
+  {
+    "adId" : 1067,
+    "campaignId" : 8002,
+    "keywords" : "astromania 1x/2.5x magnification right angle viewfinder with 6 mounting adapters for dslr camera such as canon... ",
+    "bid" : 978.90,
+    "pclick" : 0.77
+  },
+  {
+    "adId" : 1068,
+    "campaignId" : 8002,
+    "keywords" : "canon eos rebel t6 digital slr camera with 18-55mm ef-s f/3.5-5.6 is ii lens + 58mm wide angle lens + 2x telephoto... ",
+    "bid" : 1934.19,
+    "pclick" : 0.36
+  },
+  {
+    "adId" : 1069,
+    "campaignId" : 8002,
+    "keywords" : "canon eos rebel t6 dslr camera with ef-s 18-55mm f/3.5-5.6 is ii lens, ef 75-300mm f/4-5.6 iii lens, bundle ",
+    "bid" : 799.22,
+    "pclick" : 0.59
+  },
+  {
+    "adId" : 1070,
+    "campaignId" : 8002,
+    "keywords" : "canon eos 70d dslr camera bundle with canon ef-s 18-55mm f/3.5-5.6 is stm lens + tamron zoom telephoto af 70-300mm... ",
+    "bid" : 871.10,
+    "pclick" : 1.47
+  },
+  {
+    "adId" : 1071,
+    "campaignId" : 8002,
+    "keywords" : "canon eos rebel t6 digital slr camera kit with ef-s 18-55mm and ef 75-300mm zoom lenses (black) ",
+    "bid" : 1388.42,
+    "pclick" : 0.38
+  },
+  {
+    "adId" : 1072,
+    "campaignId" : 8002,
+    "keywords" : "canon eos rebel t6 digital slr camera kit with ef-s 18-55mm and ef 75-300mm zoom lenses (black) ",
+    "bid" : 1593.28,
+    "pclick" : 1.64
+  },
+  {
+    "adId" : 1073,
+    "campaignId" : 8011,
+    "keywords" : "canon eos 5ds-r 5dsr dslr camera + ef 24-105mm f/4l is usm lens + canon ef 75-300mm f/4-5.6 iii telephoto zoom... ",
+    "bid" : 151.95,
+    "pclick" : 1.11
+  },
+  {
+    "adId" : 1074,
+    "campaignId" : 8011,
+    "keywords" : "astromania 1x/2.5x magnification right angle viewfinder with 6 mounting adapters for dslr camera such as canon... ",
+    "bid" : 716.34,
+    "pclick" : 0.41
+  },
+  {
+    "adId" : 1075,
+    "campaignId" : 8011,
+    "keywords" : "canon eos rebel t6 digital slr camera with 18-55mm ef-s f/3.5-5.6 is ii lens + 58mm wide angle lens + 2x telephoto... ",
+    "bid" : 586.29,
+    "pclick" : 0.57
+  },
+  {
+    "adId" : 1076,
+    "campaignId" : 8011,
+    "keywords" : "canon eos rebel t5 digital slr camera kit with ef-s 18-55mm is ii lens ",
+    "bid" : 772.53,
+    "pclick" : 1.41
+  },
+  {
+    "adId" : 1077,
+    "campaignId" : 8011,
+    "keywords" : "canon eos rebel t6 dslr camera with ef-s 18-55mm f/3.5-5.6 is ii lens, ef 75-300mm f/4-5.6 iii lens, bundle ",
+    "bid" : 268.22,
+    "pclick" : 0.61
+  },
+  {
+    "adId" : 1078,
+    "campaignId" : 8011,
+    "keywords" : "canon eos rebel t6 digital slr camera kit with ef-s 18-55mm and ef 75-300mm zoom lenses (black) ",
+    "bid" : 630.60,
+    "pclick" : 0.64
+  },
+  {
+    "adId" : 1079,
+    "campaignId" : 8011,
+    "keywords" : "canon eos rebel t6i digital slr with ef-s 18-55mm is stm lens - wi-fi enabled ",
+    "bid" : 831.44,
+    "pclick" : 1.53
+  },
+  {
+    "adId" : 1080,
+    "campaignId" : 8011,
+    "keywords" : "canon eos rebel t5 ef-s 18-55mm is ii digital slr kit (certified refurbished) ",
+    "bid" : 1779.44,
+    "pclick" : 1.13
+  },
+  {
+    "adId" : 1081,
+    "campaignId" : 8011,
+    "keywords" : "canon powershot sx530 hs 16.0 mp cmos digital camera with 50x optical image stabilized zoom (24-1200mm), built-in... ",
+    "bid" : 1731.08,
+    "pclick" : 0.85
+  },
+  {
+    "adId" : 1082,
+    "campaignId" : 8011,
+    "keywords" : "canon eos 70d digital slr camera (body only) ",
+    "bid" : 1993.29,
+    "pclick" : 1.60
+  },
+  {
+    "adId" : 1083,
+    "campaignId" : 8011,
+    "keywords" : "canon eos 5d mark ii full frame dslr camera (body only) (old model) ",
+    "bid" : 190.82,
+    "pclick" : 0.12
+  },
+  {
+    "adId" : 1084,
+    "campaignId" : 8048,
+    "keywords" : "canon eos 7d mark ii digital slr camera (body only) - international version ",
+    "bid" : 1811.78,
+    "pclick" : 0.04
+  },
+  {
+    "adId" : 1085,
+    "campaignId" : 8048,
+    "keywords" : "canon eos rebel t6 digital slr camera with 18-55mm ef-s f/3.5-5.6 is ii lens + 58mm wide angle lens + 2x telephoto... ",
+    "bid" : 1060.09,
+    "pclick" : 0.33
+  },
+  {
+    "adId" : 1086,
+    "campaignId" : 8048,
+    "keywords" : "canon eos rebel t6 digital slr camera kit with ef-s 18-55mm and ef 75-300mm zoom lenses (black) ",
+    "bid" : 1926.68,
+    "pclick" : 1.09
+  },
+  {
+    "adId" : 1087,
+    "campaignId" : 8048,
+    "keywords" : "canon eos rebel t5 digital slr camera kit with ef-s 18-55mm is ii lens ",
+    "bid" : 443.42,
+    "pclick" : 1.51
+  },
+  {
+    "adId" : 1088,
+    "campaignId" : 8049,
+    "keywords" : "canon eos 5ds-r 5dsr dslr camera + lpe-6 lithium ion battery + canon 100es eos shoulder bag bundle 4 ",
+    "bid" : 957.05,
+    "pclick" : 1.36
+  },
+  {
+    "adId" : 1089,
+    "campaignId" : 8049,
+    "keywords" : "canon eos 70d dslr camera bundle with ef-s 18-135mm f/3.5-5.6 is stm lens & ef 75-300mm f/4-5.6 iii lens, deluxe... ",
+    "bid" : 1245.18,
+    "pclick" : 1.94
+  },
+  {
+    "adId" : 1090,
+    "campaignId" : 8049,
+    "keywords" : "canon eos rebel t6 digital slr camera kit with ef-s 18-55mm and ef 75-300mm zoom lenses (black) ",
+    "bid" : 1503.34,
+    "pclick" : 0.40
+  },
+  {
+    "adId" : 1091,
+    "campaignId" : 8049,
+    "keywords" : "canon eos rebel t5 digital slr camera kit with ef-s 18-55mm is ii lens ",
+    "bid" : 238.55,
+    "pclick" : 0.92
+  },
+  {
+    "adId" : 1092,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot sx610 hs 20.2 mp digital camera 18x zoom 3 lcd black 32gb bundle w/ 32gb sd card, 1150mah battery... ",
+    "bid" : 1533.00,
+    "pclick" : 0.79
+  },
+  {
+    "adId" : 1093,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot sx610 hs 20.2 mp digital camera 18x zoom 3-inch lcd - red 16gb bundle includes 16gb sd card, hispeed... ",
+    "bid" : 352.17,
+    "pclick" : 0.50
+  },
+  {
+    "adId" : 1094,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot sx720 hs (black) ",
+    "bid" : 1741.05,
+    "pclick" : 1.25
+  },
+  {
+    "adId" : 1095,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot elph 160 (silver) ",
+    "bid" : 1560.75,
+    "pclick" : 1.53
+  },
+  {
+    "adId" : 1096,
+    "campaignId" : 8001,
+    "keywords" : "canon 0111c001 powershot sx610 hs, wi-fi enabled - black ",
+    "bid" : 1681.97,
+    "pclick" : 1.37
+  },
+  {
+    "adId" : 1097,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot sx530 hs 16.0 mp cmos digital camera with 50x optical image stabilized zoom (24-1200mm), built-in... ",
+    "bid" : 1651.37,
+    "pclick" : 1.09
+  },
+  {
+    "adId" : 1098,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot sx410 is (black) ",
+    "bid" : 912.41,
+    "pclick" : 1.42
+  },
+  {
+    "adId" : 1099,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot sx410 is (black) ",
+    "bid" : 1426.12,
+    "pclick" : 1.93
+  },
+  {
+    "adId" : 1100,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot elph 170 is (blue) ",
+    "bid" : 884.23,
+    "pclick" : 0.91
+  },
+  {
+    "adId" : 1101,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot sx410 is camera with 20 megapixels and 40x optical zoom (certified refurbished) ",
+    "bid" : 89.52,
+    "pclick" : 0.46
+  },
+  {
+    "adId" : 1102,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot elph 350 hs 20.2 mp digital camera with 12x optical zoom (25–300mm), built in nfc and wifi, 1080p... ",
+    "bid" : 1011.88,
+    "pclick" : 0.08
+  },
+  {
+    "adId" : 1103,
+    "campaignId" : 8001,
+    "keywords" : "canon powershot elph 180 (silver) with 20.0 mp ccd sensor and 8x optical zoom ",
+    "bid" : 1370.66,
+    "pclick" : 1.68
+  },
+  {
+    "adId" : 1104,
+    "campaignId" : 8001,
+    "keywords" : "canon sx610 20.2 megapixel powershot cmos sensor 18x optical zoom (25-450mm)- wi-fi enabled, certified refurbished... ",
+    "bid" : 64.42,
+    "pclick" : 0.29
+  },
+  {
+    "adId" : 1105,
+    "campaignId" : 8050,
+    "keywords" : "clanmou g7 x protective leather camera case bag for canon powershot g7 x digital camera with camera shoulder strap... ",
+    "bid" : 1980.26,
+    "pclick" : 1.44
+  },
+  {
+    "adId" : 1106,
+    "campaignId" : 8050,
+    "keywords" : "clanmou g7 x markii protective leather camera case bag for canon powershot g7 x digital camera with camera shoulder... ",
+    "bid" : 51.63,
+    "pclick" : 0.57
+  },
+  {
+    "adId" : 1107,
+    "campaignId" : 8050,
+    "keywords" : "canon powershot elph 160 (silver) ",
+    "bid" : 1470.57,
+    "pclick" : 1.24
+  },
+  {
+    "adId" : 1108,
+    "campaignId" : 8050,
+    "keywords" : "canon sx530 hs 9779b001 powershot ",
+    "bid" : 170.07,
+    "pclick" : 0.24
+  },
+  {
+    "adId" : 1109,
+    "campaignId" : 8050,
+    "keywords" : "canon powershot sx410 is camera with 20 megapixels and 40x optical zoom (certified refurbished) ",
+    "bid" : 1815.20,
+    "pclick" : 0.47
+  },
+  {
+    "adId" : 1110,
+    "campaignId" : 8050,
+    "keywords" : "canon powershot elph 350 hs 20.2 mp digital camera with 12x optical zoom (25–300mm), built in nfc and wifi, 1080p... ",
+    "bid" : 1675.82,
+    "pclick" : 1.00
+  },
+  {
+    "adId" : 1111,
+    "campaignId" : 8050,
+    "keywords" : "canon powershot sx720 hs (black) ",
+    "bid" : 1504.09,
+    "pclick" : 0.27
+  },
+  {
+    "adId" : 1112,
+    "campaignId" : 8050,
+    "keywords" : "canon powershot sx720 hs (black) ",
+    "bid" : 1142.06,
+    "pclick" : 0.52
+  },
+  {
+    "adId" : 1113,
+    "campaignId" : 8012,
+    "keywords" : "beats ep wired on-ear headphone - black ",
+    "bid" : 732.35,
+    "pclick" : 0.84
+  },
+  {
+    "adId" : 1114,
+    "campaignId" : 8012,
+    "keywords" : "beats ep wired on-ear headphone - blue ",
+    "bid" : 1305.84,
+    "pclick" : 1.65
+  },
+  {
+    "adId" : 1115,
+    "campaignId" : 8013,
+    "keywords" : "beats solo3 wireless on-ear headphones - black ",
+    "bid" : 1378.65,
+    "pclick" : 0.56
+  },
+  {
+    "adId" : 1116,
+    "campaignId" : 8013,
+    "keywords" : "beats solo3 wireless on-ear headphones - gold ",
+    "bid" : 1947.66,
+    "pclick" : 0.06
+  },
+  {
+    "adId" : 1117,
+    "campaignId" : 8013,
+    "keywords" : "beats solo3 wireless on-ear headphones - gloss black ",
+    "bid" : 1477.37,
+    "pclick" : 1.64
+  },
+  {
+    "adId" : 1118,
+    "campaignId" : 8013,
+    "keywords" : "powerbeats 2 wireless in-ear headphone - black-(certified refurbished) ",
+    "bid" : 28.35,
+    "pclick" : 0.25
+  },
+  {
+    "adId" : 1119,
+    "campaignId" : 8013,
+    "keywords" : "beats solo3 wireless on-ear headphones - rose gold ",
+    "bid" : 505.82,
+    "pclick" : 1.65
+  },
+  {
+    "adId" : 1120,
+    "campaignId" : 8013,
+    "keywords" : "beats by dre powerbeats 2 wireless in-ear bluetooth headphones - black/red ",
+    "bid" : 1666.26,
+    "pclick" : 0.98
+  },
+  {
+    "adId" : 1121,
+    "campaignId" : 8013,
+    "keywords" : "beats by dr dre powerbeats 2 wireless in-ear headphone black sport mkpp2pa/a ",
+    "bid" : 120.76,
+    "pclick" : 1.79
+  },
+  {
+    "adId" : 1122,
+    "campaignId" : 8018,
+    "keywords" : "sony mdr100aap h.ear on premium hi-res on-ear stereo headphones - viridian blue (mdr100aap/l) with hardbody headphone... ",
+    "bid" : 1569.55,
+    "pclick" : 0.84
+  },
+  {
+    "adId" : 1123,
+    "campaignId" : 8018,
+    "keywords" : "sony mdr100aap h.ear on premium hi-res on-ear stereo headphones - viridian blue (mdr100aap/l) with hardbody headphone... ",
+    "bid" : 205.98,
+    "pclick" : 1.90
+  },
+  {
+    "adId" : 1124,
+    "campaignId" : 8018,
+    "keywords" : "sony mdrxb950bt/b extra bass bluetooth headphones (black) ",
+    "bid" : 1954.61,
+    "pclick" : 0.90
+  },
+  {
+    "adId" : 1125,
+    "campaignId" : 8019,
+    "keywords" : "sony mdrrf985rk wireless rf headphone (black) & belkin audio y cable splitter 1-mini plug, 2-rca plugs (6 feet... ",
+    "bid" : 1038.56,
+    "pclick" : 0.76
+  },
+  {
+    "adId" : 1126,
+    "campaignId" : 8019,
+    "keywords" : "sony mdrxb950bt/b extra bass bluetooth headphones (black) ",
+    "bid" : 999.39,
+    "pclick" : 0.28
+  },
+  {
+    "adId" : 1127,
+    "campaignId" : 8019,
+    "keywords" : "sony mdrrf985rk wireless rf headphone, black ",
+    "bid" : 1248.26,
+    "pclick" : 1.74
+  },
+  {
+    "adId" : 1128,
+    "campaignId" : 8020,
+    "keywords" : "unifive replacement ear pads for bose qc15 qc25 ae2 qc2 quietcomfort 15, quietcomfort 25, ae2i, ae2w headphones... ",
+    "bid" : 1993.95,
+    "pclick" : 1.54
+  },
+  {
+    "adId" : 1129,
+    "campaignId" : 8020,
+    "keywords" : "casesack headphones travel case for parrot zik, bose quietcomfort qc3, qc25, qc2, qc15, around-ear ae2w, ae2i,... ",
+    "bid" : 121.75,
+    "pclick" : 1.10
+  },
+  {
+    "adId" : 1130,
+    "campaignId" : 8020,
+    "keywords" : "bose soundtrue around-ear headphones ii - apple devices, charcoal ",
+    "bid" : 810.37,
+    "pclick" : 1.58
+  },
+  {
+    "adId" : 1131,
+    "campaignId" : 8020,
+    "keywords" : "bose quietcomfort 35 wireless headphones, noise cancelling - black ",
+    "bid" : 283.50,
+    "pclick" : 1.20
+  },
+  {
+    "adId" : 1132,
+    "campaignId" : 8020,
+    "keywords" : "bose quietcomfort 25 acoustic noise cancelling headphones for apple devices, black ",
+    "bid" : 1000.88,
+    "pclick" : 0.79
+  },
+  {
+    "adId" : 1133,
+    "campaignId" : 8021,
+    "keywords" : "bose 761529-0010 soundsport wireless headphones, black ",
+    "bid" : 1083.76,
+    "pclick" : 1.99
+  },
+  {
+    "adId" : 1134,
+    "campaignId" : 8021,
+    "keywords" : "bose quietcomfort 35 wireless headphones, noise cancelling - black ",
+    "bid" : 709.64,
+    "pclick" : 0.05
+  },
+  {
+    "adId" : 1135,
+    "campaignId" : 8021,
+    "keywords" : "bose soundlink around-ear wireless headphones ii black ",
+    "bid" : 407.62,
+    "pclick" : 1.56
+  },
+  {
+    "adId" : 1136,
+    "campaignId" : 8014,
+    "keywords" : "iphone 7 case, slim anti-scratch protective kit with [tempered glass screen protector] heavy duty dual layer rugged... ",
+    "bid" : 512.61,
+    "pclick" : 0.14
+  },
+  {
+    "adId" : 1137,
+    "campaignId" : 8014,
+    "keywords" : "iphone 7 armband, supcase easy fitting sport running armband case with premium flexible case combo for apple iphone... ",
+    "bid" : 1521.12,
+    "pclick" : 0.71
+  },
+  {
+    "adId" : 1138,
+    "campaignId" : 8014,
+    "keywords" : "iphone 7 case, vabogu [heavy duty] soft tpu & hard pc rugged dual layer case with kickstand for iphone 7 & iphone... ",
+    "bid" : 939.85,
+    "pclick" : 0.06
+  },
+  {
+    "adId" : 1139,
+    "campaignId" : 8015,
+    "keywords" : "iphone 6 case, by case tech - iphone 6 clear case (4.7 screen) - super slim bumper case - snap on transparent... ",
+    "bid" : 135.29,
+    "pclick" : 1.02
+  },
+  {
+    "adId" : 1140,
+    "campaignId" : 8015,
+    "keywords" : "iphone 6 case, jetech apple iphone 6/6s case shock-absorption bumper and anti-scratch clear back for iphone 6s... ",
+    "bid" : 1070.85,
+    "pclick" : 0.92
+  },
+  {
+    "adId" : 1141,
+    "campaignId" : 8015,
+    "keywords" : "iphone 6/6s case, ipaky [thin fit] exact-fit [black] premium matte finish dual layer hard case for iphone 6 with... ",
+    "bid" : 478.17,
+    "pclick" : 1.04
+  },
+  {
+    "adId" : 1142,
+    "campaignId" : 8015,
+    "keywords" : "otterbox commuter series iphone 6/6s case - frustration free packaging - aqua sky (aqua blue/light teal) ",
+    "bid" : 1932.25,
+    "pclick" : 0.15
+  },
+  {
+    "adId" : 1143,
+    "campaignId" : 8016,
+    "keywords" : "iphone 6 case, by case tech - iphone 6 clear case (4.7 screen) - super slim bumper case - snap on transparent... ",
+    "bid" : 47.41,
+    "pclick" : 1.66
+  },
+  {
+    "adId" : 1144,
+    "campaignId" : 8016,
+    "keywords" : "iphone 6s case, supcase apple iphone 6 case / 6s 4.7 inch display [unicorn beetle pro] rugged holster cover with... ",
+    "bid" : 1223.15,
+    "pclick" : 0.18
+  },
+  {
+    "adId" : 1145,
+    "campaignId" : 8016,
+    "keywords" : "iphone 6s case, iphone 6 case heavy duty drop protection tough shockproof cover with belt clip built-in screen... ",
+    "bid" : 1519.09,
+    "pclick" : 1.89
+  },
+  {
+    "adId" : 1146,
+    "campaignId" : 8017,
+    "keywords" : "iphone 6 case, by case tech - iphone 6 clear case (4.7 screen) - super slim bumper case - snap on transparent... ",
+    "bid" : 1147.05,
+    "pclick" : 0.05
+  },
+  {
+    "adId" : 1147,
+    "campaignId" : 8017,
+    "keywords" : "iphone 6s plus case, supcase ares full-body rugged clear bumper case with built-in screen protector for apple... ",
+    "bid" : 1840.81,
+    "pclick" : 1.73
+  },
+  {
+    "adId" : 1148,
+    "campaignId" : 8017,
+    "keywords" : "iphone 6 case, iphone 6s case, crave slim guard protection series case for iphone 6 6s (4.7 inch) - black ",
+    "bid" : 1213.07,
+    "pclick" : 1.48
+  },
+  {
+    "adId" : 1149,
+    "campaignId" : 8022,
+    "keywords" : "ofm interplay series upholstered guest / reception sofa, nickel/black, bronze tablet ",
+    "bid" : 1576.05,
+    "pclick" : 1.52
+  },
+  {
+    "adId" : 1150,
+    "campaignId" : 8022,
+    "keywords" : "lexmod empress upholstered sofa in granite ",
+    "bid" : 1964.72,
+    "pclick" : 0.77
+  },
+  {
+    "adId" : 1151,
+    "campaignId" : 8022,
+    "keywords" : "serta rta palisades collection 73 sofa in flagstone beige, cr43534pb ",
+    "bid" : 845.57,
+    "pclick" : 1.55
+  },
+  {
+    "adId" : 1152,
+    "campaignId" : 8023,
+    "keywords" : "intex inflatable corner sofa, 101 x 80",
+    "bid" : 1135.74,
+    "pclick" : 1.72
+  },
+  {
+    "adId" : 1153,
+    "campaignId" : 8023,
+    "keywords" : "the gray cotton karlstad corner sofa cover ( 2+3 / 3+2 ) replacement, is custom made for ikea karlstad sectional... ",
+    "bid" : 1388.48,
+    "pclick" : 1.83
+  },
+  {
+    "adId" : 1154,
+    "campaignId" : 8023,
+    "keywords" : "the dark gray cotton ikea ektorp 2 2 sofa cover replacement is custom made for ikea ektorp corner or sectional... ",
+    "bid" : 1187.08,
+    "pclick" : 1.20
+  },
+  {
+    "adId" : 1155,
+    "campaignId" : 8024,
+    "keywords" : "homelegance 9734db-3 upholstered sofa, dark brown bonded leather match ",
+    "bid" : 1628.06,
+    "pclick" : 1.38
+  },
+  {
+    "adId" : 1156,
+    "campaignId" : 8024,
+    "keywords" : "3 seat sofa double recliner black / brown bonded leather (brown) ",
+    "bid" : 1837.03,
+    "pclick" : 1.68
+  },
+  {
+    "adId" : 1157,
+    "campaignId" : 8024,
+    "keywords" : "serta rta palisades collection 78 bonded leather sofa in chestnut brown, cr43595p ",
+    "bid" : 1153.96,
+    "pclick" : 0.63
+  },
+  {
+    "adId" : 1158,
+    "campaignId" : 8025,
+    "keywords" : "classic scroll arm tufted button bonded leather chesterfield style sofa (white) ",
+    "bid" : 1510.15,
+    "pclick" : 0.74
+  },
+  {
+    "adId" : 1159,
+    "campaignId" : 8025,
+    "keywords" : "modern bonded leather sectional sofa - small space configurable couch - white ",
+    "bid" : 429.14,
+    "pclick" : 1.22
+  },
+  {
+    "adId" : 1160,
+    "campaignId" : 8025,
+    "keywords" : "beverly furniture beverly white 3 piecefaux leather left-facing sectional sofa set with storage ottoman, white ",
+    "bid" : 1229.43,
+    "pclick" : 0.85
+  },
+  {
+    "adId" : 1161,
+    "campaignId" : 8026,
+    "keywords" : "lexmod empress leather sofa in black ",
+    "bid" : 1822.52,
+    "pclick" : 0.98
+  },
+  {
+    "adId" : 1162,
+    "campaignId" : 8026,
+    "keywords" : "urbanica sofa ",
+    "bid" : 1495.08,
+    "pclick" : 1.65
+  },
+  {
+    "adId" : 1163,
+    "campaignId" : 8026,
+    "keywords" : "3 seat sofa double recliner black / brown bonded leather (black) ",
+    "bid" : 230.36,
+    "pclick" : 0.85
+  },
+  {
+    "adId" : 1164,
+    "campaignId" : 8026,
+    "keywords" : "coaster fine furniture 501681 samuel contemporary leather sofa, black ",
+    "bid" : 208.22,
+    "pclick" : 1.73
+  },
+  {
+    "adId" : 1165,
+    "campaignId" : 8027,
+    "keywords" : "keurig k55 single serve programmable k-cup pod coffee maker, black ",
+    "bid" : 1158.79,
+    "pclick" : 1.67
+  },
+  {
+    "adId" : 1166,
+    "campaignId" : 8027,
+    "keywords" : "hamilton beach 49980a single serve coffee brewer and full pot coffee maker, 2-way ",
+    "bid" : 54.53,
+    "pclick" : 0.45
+  },
+  {
+    "adId" : 1167,
+    "campaignId" : 8027,
+    "keywords" : "black & decker dcm600b 5-cup coffeemaker, black ",
+    "bid" : 863.90,
+    "pclick" : 0.68
+  },
+  {
+    "adId" : 1168,
+    "campaignId" : 8027,
+    "keywords" : "cuisinart dcc-3200 perfect temp 14-cup programmable coffeemaker, stainless steel ",
+    "bid" : 1775.83,
+    "pclick" : 0.71
+  },
+  {
+    "adId" : 1169,
+    "campaignId" : 8028,
+    "keywords" : "mr. coffee 4-cup programmable coffeemaker, drx5 ",
+    "bid" : 1758.29,
+    "pclick" : 0.96
+  },
+  {
+    "adId" : 1170,
+    "campaignId" : 8028,
+    "keywords" : "black & decker dlx1050b 12-cup programmable coffeemaker with glass carafe, black ",
+    "bid" : 25.15,
+    "pclick" : 0.11
+  },
+  {
+    "adId" : 1171,
+    "campaignId" : 8028,
+    "keywords" : "mr. coffee bvmc-sjx33gt-am 12-cup programmable coffee maker with thermal carafe option, chrome, ffp packaging ",
+    "bid" : 1489.07,
+    "pclick" : 0.12
+  },
+  {
+    "adId" : 1172,
+    "campaignId" : 8028,
+    "keywords" : "cuisinart dcc-3200 perfect temp 14-cup programmable coffeemaker, stainless steel ",
+    "bid" : 992.01,
+    "pclick" : 1.22
+  },
+  {
+    "adId" : 1173,
+    "campaignId" : 8029,
+    "keywords" : "hamilton beach 49980a single serve coffee brewer and full pot coffee maker, 2-way ",
+    "bid" : 1361.04,
+    "pclick" : 1.81
+  },
+  {
+    "adId" : 1174,
+    "campaignId" : 8029,
+    "keywords" : "hamilton beach flexbrew 49983a single serve / full pot coffee maker ",
+    "bid" : 630.63,
+    "pclick" : 0.39
+  },
+  {
+    "adId" : 1175,
+    "campaignId" : 8029,
+    "keywords" : "hamilton beach 12-cup coffee maker, programmable brewstation summit dispensing coffee machine (48464) ",
+    "bid" : 653.95,
+    "pclick" : 0.16
+  },
+  {
+    "adId" : 1176,
+    "campaignId" : 8030,
+    "keywords" : "mr. coffee bvmc-sjx33gt-am 12-cup programmable coffee maker with thermal carafe option, chrome, ffp packaging ",
+    "bid" : 390.01,
+    "pclick" : 2.00
+  },
+  {
+    "adId" : 1177,
+    "campaignId" : 8030,
+    "keywords" : "mr. coffee bvmc-evx23 12-cup programmable coffeemaker, black ",
+    "bid" : 1023.41,
+    "pclick" : 0.68
+  },
+  {
+    "adId" : 1178,
+    "campaignId" : 8030,
+    "keywords" : "mr. coffee optimal brew 10-cup thermal coffeemaker system, pstx91 ",
+    "bid" : 877.64,
+    "pclick" : 0.34
+  },
+  {
+    "adId" : 1179,
+    "campaignId" : 8031,
+    "keywords" : "appliance bundle - automatic burr mill grinder for espresso, french press, and auto drip coffee, and nuts - brushed... ",
+    "bid" : 480.03,
+    "pclick" : 1.16
+  },
+  {
+    "adId" : 1180,
+    "campaignId" : 8031,
+    "keywords" : "gourmia gcg185 electric burr coffee grinder, heavy duty steel grinding disc 20 coarse / fine settings, 2-18... ",
+    "bid" : 666.54,
+    "pclick" : 0.28
+  },
+  {
+    "adId" : 1181,
+    "campaignId" : 8031,
+    "keywords" : "krups f203 electric spice and coffee grinder with stainless steel blades, 3-ounce, black ",
+    "bid" : 8.32,
+    "pclick" : 1.88
+  }
+]
